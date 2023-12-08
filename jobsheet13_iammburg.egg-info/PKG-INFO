@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: jobsheet13-iammburg
+Version: 0.1.0
+Summary: Sebuah paket tebak angka dan konversi berat
+Author: Your Name: Udin
+Author-email: ilhamprabowo009@gmai.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
