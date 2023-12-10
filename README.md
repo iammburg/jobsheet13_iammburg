@@ -16,3 +16,5 @@ weight = wc()
 ```
 ![image](https://github.com/iammburg/jobsheet13_iammburg/assets/90701270/1c6912f2-4f6f-4efd-b1ab-b9ced49a700d)
 
+Hasilnya:
+![image](https://github.com/iammburg/jobsheet13_iammburg/assets/90701270/63ae942b-ef0c-4f82-be19-a9525eefef72)
